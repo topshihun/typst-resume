@@ -41,3 +41,5 @@ Add an underline to the `link`.
 # Thinks
 
 source of inspiration [resume-ng](https://github.com/fky2015/resume-ng)
+
+Font [Sarasa Term SC Nerd](https://github.com/laishulu/Sarasa-Term-SC-Nerd)
